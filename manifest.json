@@ -1,0 +1,57 @@
+{
+  "version": 5,
+  "categories": [
+    {
+      "id": "nhie.normal",
+      "file": "nhie-normal.json"
+    },
+    {
+      "id": "nhie.spicy",
+      "file": "nhie-spicy.json"
+    },
+    {
+      "id": "tod.normal",
+      "file": "tod-normal.json"
+    },
+    {
+      "id": "tod.spicy",
+      "file": "tod-spicy.json"
+    },
+    {
+      "id": "dod.normal",
+      "file": "dod-normal.json"
+    },
+    {
+      "id": "dod.spicy",
+      "file": "dod-spicy.json"
+    },
+    {
+      "id": "gtk.normal",
+      "file": "gtk-normal.json"
+    },
+    {
+      "id": "gtk.spicy",
+      "file": "gtk-spicy.json"
+    },
+    {
+      "id": "guys.normal",
+      "file": "guys-normal.json"
+    },
+    {
+      "id": "guys.spicy",
+      "file": "guys-spicy.json"
+    },
+    {
+      "id": "girls.normal",
+      "file": "girls-normal.json"
+    },
+    {
+      "id": "girls.spicy",
+      "file": "girls-spicy.json"
+    },
+    {
+      "id": "rhyme.normal",
+      "file": "rhyme-normal.json"
+    }
+  ]
+}
